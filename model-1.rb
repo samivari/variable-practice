@@ -10,3 +10,6 @@ pothos_is_blue = false
 pothos_is_green = true
 ceramic_pot = false
 terracotta_pot = true
+
+types_of_pothos =['golden', 'marble_queen', 'neon', 'jessenia','manjula', 'pearl_and_jade',]
+common_pests = ['fungus_gnats', 'aphids','common_brown_scale', 'mealybugs']

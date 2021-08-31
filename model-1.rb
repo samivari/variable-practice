@@ -13,3 +13,9 @@ terracotta_pot = true
 
 types_of_pothos =['golden', 'marble_queen', 'neon', 'jessenia','manjula', 'pearl_and_jade',]
 common_pests = ['fungus_gnats', 'aphids','common_brown_scale', 'mealybugs']
+
+color = {
+  "neon" => "yellow-green"
+  "marble_queen" => "white-and-green"
+  "golden" => "green"
+}
